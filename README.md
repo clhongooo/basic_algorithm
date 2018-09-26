@@ -5,3 +5,7 @@ involve some basic algoritms when coding normally
   * item11 emmmmm sttttt ddddd
   * item12 sssqqqqq ffff
   * item13 2333333
+* item2
+  > if(a > b){
+  >      a = b;
+  > }
