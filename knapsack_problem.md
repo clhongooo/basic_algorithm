@@ -1,8 +1,11 @@
 # knapsack problem
 ## Background
-    In our company, we choose a match algorithm in the game. At last, we think that the knapsack problem is suitable for this situation.
+    In our company, we choose a match algorithm in the game. At last, we think 
+    that the knapsack problem is suitable for this situation.
 ## Describe
-    There is a bag that it can contain M weight item at most.And those items have the own weight and the worth.The problem is how to make the promise that the bag has the most worth.
+    There is a bag that it can contain M weight item at most.And those items have 
+    the own weight and the worth.The problem is how to make the promise that the bag 
+    has the most worth.
 ## Psedocode
 ```
 Input: Two sequences v=<v1,...,vn>, w=<w1,...,wn>, the number of items n and the maxinum weight W.
